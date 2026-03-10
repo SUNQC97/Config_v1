@@ -1,4 +1,10 @@
 {
+    "Not Selected": {
+        "kanal_Num": "Kanal_1",
+        "Block_Path_Virtuos": "Not Selected",
+        "Axis_Param": {},
+        "Trafo_Param": {}
+    },
     "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]": {
         "kanal_Num": "Kanal_1",
         "Block_Path_Virtuos": "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]",
