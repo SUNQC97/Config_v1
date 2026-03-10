@@ -1,6 +1,6 @@
 {
     "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]": {
-        "kanal_Num": "Kanal_1",
+        "kanal_Num": "None",
         "Block_Path_Virtuos": "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]",
         "Axis_Param": {
             "Axis_1.ratio": "PI/180",
@@ -30,7 +30,7 @@
         },
         "Trafo_Param": {
             "trafo[0].id": "37",
-            "trafo[0].param[0]": "222.2222",
+            "trafo[0].param[0]": "0",
             "trafo[0].param[1]": "0",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "50",
