@@ -1,6 +1,6 @@
 {
     "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]": {
-        "kanal_Num": "None",
+        "kanal_Num": "Kanal_1",
         "Block_Path_Virtuos": "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]",
         "Axis_Param": {
             "Axis_1.ratio": "PI/180",
@@ -103,7 +103,7 @@
         }
     },
     "[Block Diagram].[OSACA2__Stäubli__TX2-40-HB__1_0].[RobotController]": {
-        "kanal_Num": "None",
+        "kanal_Num": "Kanal_2",
         "Block_Path_Virtuos": "[Block Diagram].[OSACA2__Stäubli__TX2-40-HB__1_0].[RobotController]",
         "Axis_Param": {
             "Axis_1.ratio": "PI/180",
