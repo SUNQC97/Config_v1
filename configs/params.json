@@ -31,7 +31,7 @@
         "Trafo_Param": {
             "trafo[0].id": "37",
             "trafo[0].param[0]": "1.1111",
-            "trafo[0].param[1]": "2222",
+            "trafo[0].param[1]": "0",
             "trafo[0].param[2]": "0",
             "trafo[0].param[3]": "50",
             "trafo[0].param[4]": "150",
